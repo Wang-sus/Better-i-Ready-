@@ -1,0 +1,1 @@
+document.getElementById('html5Iframe').contentWindow.document.getElementById('container').style="--ifabric-app-width: 1935px; --ifabric-scale:0.701174; --ifabric-left:5px; --ifabric-scale-cc:0.644118; --ifabric-left-cc:49.4265px; --ifabric-app-height-cc:1020px;"
